@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jQnk4gDxNgtNv8oC+ykyy74EsdXUDqnAMtnhZHGwrA6pqLlRJH+JecNEBTxnVTtrxYNxPH+ZKdtK59AooD6Tw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\josef\\OneDrive\\Área de Trabalho\\IntimaleLingerie\\IntimaleLingerie.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.ref/index.json'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Host.win-x64' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.win-x64/index.json'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.WindowsDesktop.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.windowsdesktop.app.ref/index.json'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.ref/index.json'.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    }
+  ]
+}
